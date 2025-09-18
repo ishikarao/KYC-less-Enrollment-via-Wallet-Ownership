@@ -1,0 +1,15 @@
+[package]
+name = "KYC_less_Enrollment_via_Wallet_Ownership"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xf777c2797d004faafb755351e56aab0d761b7b234c7d12c994405dab524a111a"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
