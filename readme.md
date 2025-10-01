@@ -277,8 +277,9 @@ npx tailwindcss init -p
 ---
 
 **Made with ❤️ on Aptos Blockchain**
+
 ##contact details
 
-0xfc7a3cfa307008f9a349d62a1c079b33a52f4b093ef0cf4b1a423db2835871fb
+0x99161cb33e8baa0cd498e325c92c6901081da6061b3d6625c57d965c4d693a8a
 
 ![alt text](image.png)
