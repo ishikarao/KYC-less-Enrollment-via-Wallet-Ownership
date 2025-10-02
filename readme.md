@@ -8,6 +8,8 @@ A decentralized application (DApp) built on Aptos blockchain that enables KYC-le
 ![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite)
 ![Move](https://img.shields.io/badge/Move-Smart%20Contract-orange)
 
+Live APP on Vercel - [KYC-less Enrollment via Wallet Ownership](https://kyc-less-enrollment-via-wa-git-603d4b-ishikas-projects-270c5f64.vercel.app/)
+
 ## 🌟 Features
 
 - **Wallet-Based Enrollment**: Users enroll using only their Aptos wallet address
